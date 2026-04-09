@@ -36,11 +36,16 @@ This app takes input (study hours) and predicts:
 
 ## 📸 Preview
 
+## 📸 Preview
+
 ### 🖥️ Streamlit UI
-![UI](ui.png)
+![UI](ui/Screenshot 1.png)
+![UI](ui/Screenshot 2.png)
+![UI](ui/Screenshot 3.png)
 
-### 📊 Model Visualization (Sigmoid Curve)
-![Graph](graph.png)
+### 📊 Model Visualization
+![Graph](graph/graph sigmoid curve.png)
 
-### ⚙️ Terminal Output (Model Training)
-![Output](output.png)
+### ⚙️ Terminal Output
+![Output](output/terminal input.png)
+![Output](output/terminal output.png)
