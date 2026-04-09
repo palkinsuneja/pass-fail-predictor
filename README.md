@@ -33,3 +33,14 @@ This app takes input (study hours) and predicts:
 ---
 
 ## 📂 Project Structure
+
+## 📸 Preview
+
+### 🖥️ Streamlit UI
+![UI](ui.png)
+
+### 📊 Model Visualization (Sigmoid Curve)
+![Graph](graph.png)
+
+### ⚙️ Terminal Output (Model Training)
+![Output](output.png)
