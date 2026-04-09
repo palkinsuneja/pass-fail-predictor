@@ -51,4 +51,8 @@ st.subheader("Prediction:")
 st.write(result)
 
 st.subheader("Probability:")
+<<<<<<< HEAD
 st.write(f"{prob:.2f}")
+=======
+st.write(f"{prob:.2f}")
+>>>>>>> 64da48f47531f10970a34c2a57411372196750ed
